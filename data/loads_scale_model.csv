@@ -1,0 +1,24 @@
+subsystem,component,quantity,unit_power_w,basis
+lighting,PIR sensor HC-SR501,2,0.2145,3.3 V x 65 mA
+lighting,LDR module,1,0.0495,3.3 V x 15 mA
+lighting,ESP32,1,1.419,3.3 V x 430 mA
+lighting,LED 5 mm,10,0.01,5 V x 2 mA
+lighting,220 ohm resistor,10,0.088,220 ohm x (20 mA)^2
+lighting,100k potentiometer,1,0.5,0.5 W rating
+security,MQ-135 gas sensor,1,0.75,5 V x 150 mA
+security,LED 5 mm,1,0.01,5 V x 2 mA
+security,220 ohm resistor,2,0.088,220 ohm x (20 mA)^2
+security,12 mm buzzer TMB12A05,2,0.15,5 V x 30 mA
+security,Flame sensor KY-026,1,0.05,5 V x 10 mA
+security,Arduino Uno R3,1,0.25,250 mW
+security,Fan,1,0.72,9 V x 80 mA
+security,ESP32,1,1.419,3.3 V x 430 mA
+security,ULN2003 driver + 28BYJ-48,1,0.105,5 V x 21 mA
+security,SG90 micro servo,1,0.75,5 V x 150 mA
+temperature,ESP32,1,1.419,3.3 V x 430 mA
+temperature,DHT22 sensor,1,0.0075,5 V x 1.5 mA
+temperature,SG90 micro servo,1,0.75,5 V x 150 mA
+temperature,LED 5 mm,1,0.01,5 V x 2 mA
+temperature,Fan,1,0.72,9 V x 80 mA
+temperature,LCD 16x2,1,0.1,5 V x 20 mA
+temperature,220 ohm resistor (ESP-driven),1,0.352,220 ohm x (40 mA)^2

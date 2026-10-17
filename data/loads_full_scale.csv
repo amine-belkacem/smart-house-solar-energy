@@ -1,0 +1,15 @@
+appliance,count,unit_power_w,hours_per_day,supply,conversion_efficiency
+Lamp living room,2,25,4,DC,1.0
+Lamp kitchen,2,25,4,DC,1.0
+Lamp bedroom 1,1,25,4,DC,1.0
+Lamp bedroom 2,1,25,4,DC,1.0
+Lamp bedroom 3,1,25,4,DC,1.0
+Lamp hallway 1,4,25,4,DC,1.0
+Lamp hallway 2,4,25,4,DC,1.0
+Lamp WC 1,2,25,2,DC,1.0
+Lamp WC 2,2,25,2,DC,1.0
+Computer,1,400,4,AC,0.95
+Printer,1,45,1,AC,0.95
+Photocopier,1,35,1,AC,0.95
+Television,1,100,3,AC,0.95
+Refrigerator,1,250,24,AC,0.95
